@@ -6,8 +6,8 @@ A web-based implementation of the classic Simon Says memory game. Test your memo
 
 ## Demo
 
-[Live Demo](#)  
-[*(Add your GitHub Pages or deployment link here if available)*](https://simon-say-game-three.vercel.app/)
+[Live Demo](https://simon-say-game-three.vercel.app/)  
+
 
 ## Features
 
